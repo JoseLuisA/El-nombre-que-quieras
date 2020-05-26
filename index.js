@@ -1,5 +1,5 @@
 console.log("Hola Mundo");
-console.log("Adios alv");
+
 
 let linea = "";
 
@@ -30,3 +30,5 @@ for(let i=0;i<10;i++) {
     console.log(linea);
     linea = "";
 }
+
+console.log("Adios alv");
